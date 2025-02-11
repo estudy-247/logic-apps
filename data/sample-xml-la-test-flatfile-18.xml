@@ -1,0 +1,9 @@
+<ns0:User xmlns:ns0="http://BT.Test.FlatFile.Schema.UserDetails_FF">
+<UserDetails>
+<Name>Tina</Name>
+<Gender>F</Gender>
+<Email>tina@example.com</Email>
+<Address>Kolkata</Address>
+<Remarks>user is active</Remarks>
+</UserDetails>
+</ns0:User>
